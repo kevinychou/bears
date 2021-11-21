@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevinychou/bears/HEAD?urlpath=%2Fvoila%2Frender%2FBearClassifier.ipynb)
-# Bear Cassifier
+# Bear Classifier
 A FastAI project from Week 2: Production. Bear classifier app which allows user to upload image, and determines whether image is grizzly, teddy, or black bear.
 
 ## Mini Blog
